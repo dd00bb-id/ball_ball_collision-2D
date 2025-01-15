@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dnsl0\\Desktop\\\uACF5\uACFC \uACF5\uC758 \uCDA9\uB3CC \uC2DC\uBBAC\uB808\uC774\uC158\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833F8743-E63C-46CC-BFE1-A3D4A1AD3CE3}|Ball_Ball_Collision\\Ball_Ball_Collision.vcxproj|C:\\Users\\dnsl0\\Desktop\\\uACF5\uACFC \uACF5\uC758 \uCDA9\uB3CC \uC2DC\uBBAC\uB808\uC774\uC158\\Ball_Ball_Collision\\ball_ball_collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{833F8743-E63C-46CC-BFE1-A3D4A1AD3CE3}|Ball_Ball_Collision\\Ball_Ball_Collision.vcxproj|solutionrelative:Ball_Ball_Collision\\ball_ball_collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ball_ball_collision.cpp",
+              "DocumentMoniker": "C:\\Users\\dnsl0\\Desktop\\\uACF5\uACFC \uACF5\uC758 \uCDA9\uB3CC \uC2DC\uBBAC\uB808\uC774\uC158\\Ball_Ball_Collision\\ball_ball_collision.cpp",
+              "RelativeDocumentMoniker": "Ball_Ball_Collision\\ball_ball_collision.cpp",
+              "ToolTip": "C:\\Users\\dnsl0\\Desktop\\\uACF5\uACFC \uACF5\uC758 \uCDA9\uB3CC \uC2DC\uBBAC\uB808\uC774\uC158\\Ball_Ball_Collision\\ball_ball_collision.cpp",
+              "RelativeToolTip": "Ball_Ball_Collision\\ball_ball_collision.cpp",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAiwBEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T06:30:29.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
