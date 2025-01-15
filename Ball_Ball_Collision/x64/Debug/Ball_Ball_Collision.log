@@ -1,0 +1,22 @@
+﻿  ball_ball_collision.cpp
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(72,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(74,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(75,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(78,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(79,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(80,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(82,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(87,32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(88,44): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(89,44): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(90,50): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(91,50): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(92,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(149,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(166,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(167,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(169,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(170,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(221,5): error C3861: 'sprintf': 식별자를 찾을 수 없습니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(238,37): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\dnsl0\Desktop\공과 공의 충돌 시뮬레이션\Ball_Ball_Collision\ball_ball_collision.cpp(239,37): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
